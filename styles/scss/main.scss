@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 64px;
+  width: 80%;
+}
+.bg-gradient1 {
+  background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
+}
+.text-gradient1 {
+  background: text-gradient(135deg, #1e30f3 0%, #e21e80 100%);
+}
